@@ -1,0 +1,118 @@
+{
+  "Character": [
+    "AthenaCharacter:cid_001_athena_commando_f_default",
+    "AthenaCharacter:cid_002_athena_commando_f_default",
+    "AthenaCharacter:cid_003_athena_commando_f_default",
+    "AthenaCharacter:cid_004_athena_commando_f_default",
+    "AthenaCharacter:cid_005_athena_commando_m_default",
+    "AthenaCharacter:cid_006_athena_commando_m_default",
+    "AthenaCharacter:cid_007_athena_commando_m_default",
+    "AthenaCharacter:cid_008_athena_commando_m_default",
+    "AthenaCharacter:cid_009_athena_commando_m",
+    "AthenaCharacter:cid_010_athena_commando_m",
+    "AthenaCharacter:cid_011_athena_commando_m",
+    "AthenaCharacter:cid_012_athena_commando_m",
+    "AthenaCharacter:cid_013_athena_commando_f",
+    "AthenaCharacter:cid_014_athena_commando_f",
+    "AthenaCharacter:cid_016_athena_commando_f",
+    "AthenaCharacter:cid_016_athena_commando_f",
+    "AthenaCharacter:cid_017_athena_commando_m",
+    "AthenaCharacter:cid_018_athena_commando_m",
+    "AthenaCharacter:cid_019_athena_commando_m",
+    "AthenaCharacter:cid_020_athena_commando_m",
+    "AthenaCharacter:cid_021_athena_commando_f",
+    "AthenaCharacter:cid_022_athena_commando_f",
+    "AthenaCharacter:cid_023_athena_commando_f",
+    "AthenaCharacter:cid_024_athena_commando_f",
+    "AthenaCharacter:cid_025_athena_commando_m",
+    "AthenaCharacter:cid_026_athena_commando_m",
+    "AthenaCharacter:cid_027_athena_commando_f",
+    "AthenaCharacter:cid_028_athena_commando_f",
+    "AthenaCharacter:cid_029_athena_commando_f_halloween",
+    "AthenaCharacter:cid_030_athena_commando_m_halloween",
+    "AthenaCharacter:cid_031_athena_commando_m_retro",
+    "AthenaCharacter:cid_032_athena_commando_m_medieval",
+    "AthenaCharacter:cid_033_athena_commando_f_medieval",
+    "AthenaCharacter:cid_034_athena_commando_f_medieval",
+    "AthenaCharacter:cid_035_athena_commando_m_medieval",
+    "AthenaCharacter:cid_036_athena_commando_m_winterCamo",
+    "AthenaCharacter:cid_037_athena_commando_f_winterCamo",
+    "AthenaCharacter:cid_038_athena_commando_m_disco",
+    "AthenaCharacter:cid_039_athena_commando_f_disco",
+    "AthenaCharacter:cid_040_athena_commando_m_district",
+    "AthenaCharacter:cid_041_athena_commando_f_district",
+    "AthenaCharacter:cid_042_athena_commando_m_cyberpunk",
+    "AthenaCharacter:cid_043_athena_commando_f_stealth",
+    "AthenaCharacter:cid_044_athena_commando_f_scipop",
+    "AthenaCharacter:cid_045_athena_commando_m_holidaysweater",
+    "AthenaCharacter:cid_046_athena_commando_f_holidaysweater",
+    "AthenaCharacter:cid_047_athena_commando_f_holidayreindeer",
+    "AthenaCharacter:cid_048_athena_commando_f_holidaygingerbread",
+    "AthenaCharacter:cid_049_athena_commando_m_holidaygingerbread",
+    "AthenaCharacter:cid_050_athena_commando_m_holidaynutcracker",
+    "AthenaCharacter:cid_051_athena_commando_m_holidayelf"
+  ],
+  "Backpack": [
+    "AthenaBackpack:bid_001_bluesquire",
+    "AthenaBackpack:bid_002_royaleknight",
+    "AthenaBackpack:bid_003_redknight",
+    "AthenaBackpack:bid_004_blackknight",
+    "AthenaBackpack:bid_005_raptor",
+    "AthenaBackpack:bid_006_skidude",
+    "AthenaBackpack:bid_007_skidude_usa",
+    "AthenaBackpack:bid_008_skidude_can",
+    "AthenaBackpack:bid_009_skidude_gbr",
+    "AthenaBackpack:bid_010_skidude_fra",
+    "AthenaBackpack:bid_011_skidude_ger",
+    "AthenaBackpack:bid_012_skidude_chn",
+    "AthenaBackpack:bid_013_skidude_kor",
+    "AthenaBackpack:bid_014_skigirl",
+    "AthenaBackpack:bid_015_skigirl_usa",
+    "AthenaBackpack:bid_016_skigirl_can",
+    "AthenaBackpack:bid_017_skigirl_gbr",
+    "AthenaBackpack:bid_018_skigirl_fra",
+    "AthenaBackpack:bid_019_skigirl_ger",
+    "AthenaBackpack:bid_020_skigirl_chn",
+    "AthenaBackpack:bid_021_skigirl_kor",
+    "AthenaBackpack:bid_022_cupid",
+    "AthenaBackpack:bid_023_pinkbear"
+  ],
+  "Pickaxe": [
+    "AthenaPickaxe:defaultpickaxe"
+  ],
+  "Glider": [
+    "AthenaGlider:defaultglider"
+  ],
+  "SkyDiveContrail": [
+    "AthenaSkyDiveContrail:trails_id_001_disco",
+    "AthenaSkyDiveContrail:trails_id_002_rainbow",
+    "AthenaSkyDiveContrail:trails_id_003_fire",
+    "AthenaSkyDiveContrail:trails_id_004_bluestreak",
+    "AthenaSkyDiveContrail:trails_id_005_bubbles",
+    "AthenaSkyDiveContrail:trails_id_007_tp",
+    "AthenaSkyDiveContrail:trails_id_008_lightning",
+    "AthenaSkyDiveContrail:trails_id_009_hearts",
+    "AthenaSkyDiveContrail:trails_id_010_retroscifi",
+    "AthenaBackpack:petcarrier_001_dog",
+    "AthenaBackpack:petcarrier_002_chameleon",
+    "AthenaBackpack:petcarrier_003_dragon"
+  ],
+  "Dance": [
+    "AthenaDance:eid_dancemoves"
+  ],
+  "ItemWrap": [
+  ],
+  "BannerIcon": [
+  ],
+  "BannerColor": [
+  ],
+  "MusicPack": [
+    "AthenaMusicPack:musicpack_000_stw_default",
+    "AthenaMusicPack:musicpack_001_floss",
+    "AthenaMusicPack:musicpack_002_spooky",
+    "AthenaMusicPack:musicpack_003_ogremix"
+  ],
+  "MiscItem": [
+    "Currency:MtxPurchased"
+  ]
+}
